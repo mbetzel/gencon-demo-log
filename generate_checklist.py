@@ -16,27 +16,32 @@ import re
 import urllib.parse
 
 
+# Prerequisite / Ticket requirements for Free Catalog Events:
+# - "None" / "None (Does not require tickets)": Free, no tickets needed (e.g. Drillers)
+# - "Requires ticket": Free, but requires generic/free event ticket (e.g. ticketed demo session)
+
 VERIFIED_CATALOG_EVENTS = {
-    "Food Truck Fury": {"type": "Free Demo Event Available", "free": True},
-    "Drillers": {"type": "Free Demo Event", "free": True},
-    "War of the Dragon: The Wheel of Time": {"type": "Free Demo Event", "free": True},
-    "Kingdom Come: Deliverance – The Board Game": {"type": "Free Demo Event", "free": True},
-    "Primacy": {"type": "Free Demo Event", "free": True},
-    "One in a Million": {"type": "Free Demo Event", "free": True},
-    "Gnomeville": {"type": "Free Demo Event", "free": True},
-    "Crits & Tricks": {"type": "Free Demo Event", "free": True},
-    "Brave & Bold: Bag Building Combat Game": {"type": "Free Demo Event", "free": True},
-    "Cozy Stickerville": {"type": "Free Demo Event", "free": True},
-    "Gunsen: The Battle for Toshi Ranbo": {"type": "Free Demo Event", "free": True},
-    "The Lord of the Rings: The King's Gambit": {"type": "Free Demo Event", "free": True},
-    "Ringyō": {"type": "Free Demo Event", "free": True},
-    "Potemkin Villages": {"type": "Free Demo Event", "free": True},
-    "Raas: A Dance of Love": {"type": "Free Demo Event", "free": True},
-    "Estate: Raise the Realm": {"type": "Free Demo Event", "free": True},
-    "Àiyé": {"type": "Free Demo Event", "free": True},
-    "Las Vegas": {"type": "Free Demo Event", "free": True},
-    "The Glorious Guilds of Buttonville": {"type": "Free Demo Event", "free": True}
+    "Food Truck Fury": {"type": "Free Demo Event Available", "free": True, "requires_ticket": True},
+    "Drillers": {"type": "Free Demo Event (No Tickets Required)", "free": True, "requires_ticket": False},
+    "War of the Dragon: The Wheel of Time": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Kingdom Come: Deliverance – The Board Game": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Primacy": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "One in a Million": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Gnomeville": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Crits & Tricks": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Brave & Bold: Bag Building Combat Game": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Cozy Stickerville": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Gunsen: The Battle for Toshi Ranbo": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "The Lord of the Rings: The King's Gambit": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Ringyō": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Potemkin Villages": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Raas: A Dance of Love": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Estate: Raise the Realm": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Àiyé": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "Las Vegas": {"type": "Free Demo Event", "free": True, "requires_ticket": True},
+    "The Glorious Guilds of Buttonville": {"type": "Free Demo Event", "free": True, "requires_ticket": True}
 }
+
 
 
 def parse_location(location_raw):
@@ -118,12 +123,17 @@ def generate_checklist(input_csv, output_md):
             
             p_badge = "🔥 **MUST HAVE**" if priority == '1' else "⭐ **INTERESTED**"
             
-            cat_event_info = CATALOG_EVENTS.get(title)
+            cat_event_info = VERIFIED_CATALOG_EVENTS.get(title)
             
             if cat_event_info:
-                demo_str = f"🎟️ Event Catalog ({cat_event_info['type']})"
+                if cat_event_info.get('requires_ticket') is False:
+                    demo_str = "🎟️ Event Catalog: Free (No Tickets Required)"
+                elif cat_event_info.get('requires_ticket') is True:
+                    demo_str = "🎟️ Event Catalog: Free (Requires Tickets)"
+                else:
+                    demo_str = f"🎟️ Event Catalog ({cat_event_info['type']})"
             elif 'room' in loc.lower():
-                demo_str = "🎟️ Event Catalog (Free Demo Session)"
+                demo_str = "🎟️ Event Catalog: Free (Requires Tickets)"
             elif avail == 'Demo':
                 demo_str = "Free Show Floor Demo"
             else:

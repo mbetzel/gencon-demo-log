@@ -1,7 +1,7 @@
-# GenCon 2026 Demo Checklist
+# GenCon Demo Checklist
 
 > **Legend:** 🔥 = MUST HAVE | ⭐ = INTERESTED
-> **Demo Status:** `[🎟️ Event Catalog: Free]` = Free Catalog Event | `[Free Show Floor Demo]` = Walk-up Booth Demo | `[For Sale]` = Retail Booth
+> **Demo Status:** `[🎟️ Event Catalog]` = 1+ Scheduled Events Listed in Catalog | `[Free Show Floor Demo]` = Walk-up Booth Demo | `[For Sale]` = Retail Booth
 
 
 ### 🏛️ EXHIBIT HALL BOOTHS
@@ -65,7 +65,7 @@
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/423170)  
   * 💬 Thoughts: 
 
-**Booth 629** — ⭐ **INTERESTED** — **Raas: A Dance of Love** (Arcane Wonders) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 629** — ⭐ **INTERESTED** — **Raas: A Dance of Love** (Arcane Wonders) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/358912) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Raas%3A+A+Dance+of+Love)  
   * 💡 Note: Looks like a take on Tzoklin but with lots of color!  
   * 💬 Thoughts: 
@@ -74,12 +74,12 @@
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/463605)  
   * 💬 Thoughts: 
 
-**Booth Asmodee Booth 817** — 🔥 **MUST HAVE** — **Cozy Stickerville** (Unexpected Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Asmodee Booth 817** — 🔥 **MUST HAVE** — **Cozy Stickerville** (Unexpected Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/456440) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Cozy+Stickerville)  
   * 💡 Note: New game by Corey Konieczka  
   * 💬 Thoughts: 
 
-**Booth 1003** — 🔥 **MUST HAVE** — **Drillers** (Czech Games Edition (CGE)) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 1003** — 🔥 **MUST HAVE** — **Drillers** (Czech Games Edition (CGE)) `[🎟️ Event Catalog: Free (No Tickets Required)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/465669) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Drillers)  
   * 💬 Thoughts: 
 
@@ -88,7 +88,7 @@
   * 💡 Note: Guild of Merchant Explorers designer  
   * 💬 Thoughts: 
 
-**Booth Asmodee Booth 1109** — ⭐ **INTERESTED** — **Gunsen: The Battle for Toshi Ranbo** (Office Dog) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Asmodee Booth 1109** — ⭐ **INTERESTED** — **Gunsen: The Battle for Toshi Ranbo** (Office Dog) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/449018) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Gunsen%3A+The+Battle+for+Toshi+Ranbo)  
   * 💡 Note: Designer of Search for Planet X, Fromage  
   * 💬 Thoughts: 
@@ -108,7 +108,7 @@
   * 💡 Note: Solo game  
   * 💬 Thoughts: 
 
-**Booth 1443** — 🔥 **MUST HAVE** — **Gnomeville** (Adam's Apple Games, LLC) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 1443** — 🔥 **MUST HAVE** — **Gnomeville** (Adam's Apple Games, LLC) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/455727) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Gnomeville)  
   * 💬 Thoughts: 
 
@@ -117,15 +117,15 @@
   * 💡 Note: From the Cosmic Frog designer  
   * 💬 Thoughts: 
 
-**Booth 1735** — 🔥 **MUST HAVE** — **The Lord of the Rings: The King's Gambit** (Restoration Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 1735** — 🔥 **MUST HAVE** — **The Lord of the Rings: The King's Gambit** (Restoration Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/467694) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=The+Lord+of+the+Rings%3A+The+King%27s+Gambit)  
   * 💬 Thoughts: 
 
-**Booth 1755** — 🔥 **MUST HAVE** — **Ringyō** (Paverson Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 1755** — 🔥 **MUST HAVE** — **Ringyō** (Paverson Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/451298) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Ringy%C5%8D)  
   * 💬 Thoughts: 
 
-**Booth 1842** — 🔥 **MUST HAVE** — **Crits & Tricks** (Inside Up Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 1842** — 🔥 **MUST HAVE** — **Crits & Tricks** (Inside Up Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/436907) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Crits+%26+Tricks)  
   * 💡 Note: Designer of Origin Story  
   * 💬 Thoughts: 
@@ -135,11 +135,11 @@
   * 💡 Note: Looks like an amped up Tsuro?  
   * 💬 Thoughts: 
 
-**Booth 2001** — ⭐ **INTERESTED** — **Las Vegas** (Ravensburger AG) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 2001** — ⭐ **INTERESTED** — **Las Vegas** (Ravensburger AG) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/463783) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Las+Vegas)  
   * 💬 Thoughts: 
 
-**Booth 2001** — 🔥 **MUST HAVE** — **The Glorious Guilds of Buttonville** (Ravensburger AG) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 2001** — 🔥 **MUST HAVE** — **The Glorious Guilds of Buttonville** (Ravensburger AG) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/446949) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=The+Glorious+Guilds+of+Buttonville)  
   * 💡 Note: Designer of MindBug  
   * 💬 Thoughts: 
@@ -193,7 +193,7 @@
   * 💡 Note: Solo game  
   * 💬 Thoughts: 
 
-**Booth 2564** — 🔥 **MUST HAVE** — **Potemkin Villages** (Albi) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 2564** — 🔥 **MUST HAVE** — **Potemkin Villages** (Albi) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/454829) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Potemkin+Villages)  
   * 💡 Note: Coop trick taker by the co-designer of Sanctum and Kutna Hora.  
   * 💬 Thoughts: 
@@ -269,7 +269,7 @@
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/473060)  
   * 💬 Thoughts: 
 
-**Booth 2953** — 🔥 **MUST HAVE** — **Àiyé** (Moon Saga Workshop) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 2953** — 🔥 **MUST HAVE** — **Àiyé** (Moon Saga Workshop) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/322626) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=%C3%80iy%C3%A9)  
   * 💡 Note: Designers of Kokeshi, HiFi  
   * 💬 Thoughts: 
@@ -279,29 +279,29 @@
   * 💡 Note: Designer of Moonrakers  
   * 💬 Thoughts: 
 
-**Booth 3054** — ⭐ **INTERESTED** — **Brave & Bold: Bag Building Combat Game** (Resurrection Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth 3054** — ⭐ **INTERESTED** — **Brave & Bold: Bag Building Combat Game** (Resurrection Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/464449) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Brave+%26+Bold%3A+Bag+Building+Combat+Game)  
   * 💬 Thoughts: 
 
 
 ### 🚪 EVENT ROOMS & DEDICATED ROOMS
 
-**Booth Room 125** — ⭐ **INTERESTED** — **Food Truck Fury** (Van Ryder Games) `[🎟️ Event Catalog (Free Demo Event Available)]`  
+**Booth Room 125** — ⭐ **INTERESTED** — **Food Truck Fury** (Van Ryder Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/472256) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Food+Truck+Fury)  
   * 💬 Thoughts: 
 
-**Booth Dire Wolf Event Room #141** — ⭐ **INTERESTED** — **War of the Dragon: The Wheel of Time** (Dire Wolf) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Dire Wolf Event Room #141** — ⭐ **INTERESTED** — **War of the Dragon: The Wheel of Time** (Dire Wolf) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/470548) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=War+of+the+Dragon%3A+The+Wheel+of+Time)  
   * 💬 Thoughts: 
 
-**Booth Room 235** — ⭐ **INTERESTED** — **Kingdom Come: Deliverance – The Board Game** (Czech Games Edition (CGE)) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Room 235** — ⭐ **INTERESTED** — **Kingdom Come: Deliverance – The Board Game** (Czech Games Edition (CGE)) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/473897) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Kingdom+Come%3A+Deliverance+%E2%80%93+The+Board+Game)  
   * 💬 Thoughts: 
 
 
 ### 🏟️ HALLS & STADIUM AREAS
 
-**Booth Hall B : Orange, Table 38** — ⭐ **INTERESTED** — **Primacy** (Spielcraft Games) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Hall B : Orange, Table 38** — ⭐ **INTERESTED** — **Primacy** (Spielcraft Games) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/377946) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Primacy)  
   * 💬 Thoughts: 
 
@@ -324,14 +324,14 @@
   * 💡 Note: Designer of Bonsai  
   * 💬 Thoughts: 
 
-**Booth Lucas Oil Stadium (Bear Left HQ)** — ⭐ **INTERESTED** — **Estate: Raise the Realm** (Grod Games LLC.) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth Lucas Oil Stadium (Bear Left HQ)** — ⭐ **INTERESTED** — **Estate: Raise the Realm** (Grod Games LLC.) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/419437) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=Estate%3A+Raise+the+Realm)  
   * 💬 Thoughts: 
 
 
 ### 📍 OTHER / UNSPECIFIED LOCATIONS
 
-**Booth ,** — 🔥 **MUST HAVE** — **One in a Million** (Spielcraft Games, Everything's on the Table) `[🎟️ Event Catalog (Free Demo Event)]`  
+**Booth ,** — 🔥 **MUST HAVE** — **One in a Million** (Spielcraft Games, Everything's on the Table) `[🎟️ Event Catalog: Free (Requires Tickets)]`  
   * 🔗 [BGG Page](https://boardgamegeek.com/boardgame/466074) • [GenCon Catalog](https://www.gencon.com/event-catalog?search=One+in+a+Million)  
   * 💡 Note: Crazy sounding card game with unique decks  
   * 💬 Thoughts: 
